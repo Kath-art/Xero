@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "APOjeV5hdb4khRq2AFFQGsfYCU3Nn+Spz2Jzs2cC58M/gp8QjuWhLDQrTiE7WKCPPAMsH4lY/lMp1FAWqc1n8Q==",
+  "success": true,
+  "projectFilePath": "/Users/kathtriggs/Projects/Xero/Xero/Xero.csproj",
+  "expectedPackageFiles": [
+    "/Users/kathtriggs/.nuget/packages/microsoft.codecoverage/17.0.0/microsoft.codecoverage.17.0.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/microsoft.net.test.sdk/17.0.0/microsoft.net.test.sdk.17.0.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/microsoft.testplatform.objectmodel/17.0.0/microsoft.testplatform.objectmodel.17.0.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/microsoft.testplatform.testhost/17.0.0/microsoft.testplatform.testhost.17.0.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/nunit3testadapter/4.1.0/nunit3testadapter.4.1.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/selenium.webdriver/4.0.1/selenium.webdriver.4.0.1.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/selenium.webdriver.chromedriver/96.0.4664.4500/selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/seleniumextras.waithelpers/1.0.2/seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/sonaranalyzer.csharp/8.32.0.39516/sonaranalyzer.csharp.8.32.0.39516.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/kathtriggs/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
